@@ -7,3 +7,10 @@
     background-color: lightgray;
     font-family: sans-serif;
     }
+
+#background {
+    height: 95%;
+    width: 95%;
+    background: white;
+    border-radius: 15px;
+    }
