@@ -14,3 +14,15 @@
     background: white;
     border-radius: 15px;
     }
+
+#profileInfo {
+    width: 80%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+}
